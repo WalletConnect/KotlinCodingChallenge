@@ -11,10 +11,10 @@ Notes :
    - Meaningful commit history (git) will be a plus.
    - Feel free to add some comments or provide information in `README.md` file about things you would like to improve but didn't have time for this.
 
-## Project - 
+## Project
 * You are expected to add a UI layer to the project using Compose.
 * You will display a list that will show all of the `ClothingItems` from the `ClothingRepository` class.
-    * Each item in the list needs to show the `title` and the `image` properties of the `ClothingItem` object
+    * Each item in the Composible list needs to show the `title` and the `image` properties of the `ClothingItem` object
 * On clicking of an item in the list will open a detail view that will show the selected `ClothingItem`
     * The detail view needs to show the `title`, `price`, `description`, and `image` properties of the `ClothingItem` object
 
