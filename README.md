@@ -2,7 +2,7 @@
 
 The purpose of this test is to evaluate your technical skills, communication and mindset.
 
-You should exemplify the best work you can do with the provided example and perhaps surprise us with your solution. You have *one* week time to work on the test, but our expectations are that a fraction of the time is needed for the test.
+You should exemplify the best work you can do with the provided example and perhaps surprise us with your solution. You have *one* week time to work on the test, but our expectations are that a fraction of the time is needed for the test. Treat your solution as a production application.
 
 ## Submission Procedure
 After completing the challenge, push your changes to a remote repo that we can clone from and email the repo to us 
